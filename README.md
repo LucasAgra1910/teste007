@@ -21,18 +21,3 @@ git config --global user.name "Your Name"
 
 Automáticamente ele vai abrir uma caixinha pode confirmar!
 
-# Branchs
-Criar uma branch na plataforma do github EX: 'dev'
-
-No terminal:
-
-git fetch
-git checkout NOMEDABRANCH
-
-# Pull Request
-clicar em pull request
-clicar em new pull request
-clicar em create pull request
-clicar em create pull request OBS: se quiser mande uma mensagem
-clicar em Marge Pull request
-clicar em Confirm pull request
